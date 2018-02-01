@@ -5,3 +5,5 @@ This is a repository which houses knowledge acquired during attending the [Debug
 https://github.com/btraceio/btrace
 
 https://github.com/takipi/profiling-agent/find/develop
+
+SpecJvm: https://www.spec.org/jvm2008/
